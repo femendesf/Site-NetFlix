@@ -3,7 +3,8 @@
 Site recriado com BootCamp Carrefour Web Developer
 
 
-Material usado 📁: 
+Material usado 📁:
+
     ✔️ Owl Carousel : https://owlcarousel2.github.io/OwlCarousel2/
     
     ✔️ FontAwesome : https://fontawesome.com/
